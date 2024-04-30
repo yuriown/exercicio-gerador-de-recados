@@ -8,4 +8,4 @@ It is the project of an Advice Generator, developed through a FrontEnd Mentor ex
 - CSS
 - JavaScript
 
-### <a href="https://yuriown.github.io/exercicio-gerador-de-recados/">Click here<a> to access the live project.
+### <a href="https://yuriown.github.io/exercicio-gerador-de-recados/" target="_blank">Click here<a> to access the live project.
