@@ -3,7 +3,7 @@ let adviceId = document.getElementsByClassName('advice-id')
 let advicePhrase = document.getElementsByClassName('advice-phrase')
 const apiUrl = 'https://api.adviceslip.com/advice'
 
-    buttonUpdate.addEventListener('click', function(){
+buttonUpdate.addEventListener('click', function(){
     fetch(apiUrl)
         .then((response) =>{
             if(!response.ok) {
@@ -20,4 +20,4 @@ const apiUrl = 'https://api.adviceslip.com/advice'
         .catch(error => {
             console.error(`Error in API request: ${error}`)
         })
-    })
+})
